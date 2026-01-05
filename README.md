@@ -107,8 +107,7 @@ python main.py organize_papers ./papers --topics "Computer Vision, Natural Langu
 
 **运行演示**:
 
-> 系统会自动将 `./papers` 下的 PDF 移动到 `./papers/NLP/` 等文件夹，并显示索引进度。
-> *(此处展示：进度条走完，且文件夹目录变得整洁)*
+![image](https://github.com/w18650/Local-Multimodal-AI-Agent/blob/main/assets/papers.png)
 
 ---
 
