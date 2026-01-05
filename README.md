@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/b6a379a0-0331-4b2d-9c57-7d0c45860a0a
 # 本地 AI 智能文献与图像管理助手 (Local Multimodal AI Agent)
 
 ## 📖 1. 项目简介 (Project Introduction)
