@@ -1,9 +1,9 @@
+
+https://github.com/user-attachments/assets/b6a379a0-0331-4b2d-9c57-7d0c45860a0a
 # 本地 AI 智能文献与图像管理助手 (Local Multimodal AI Agent)
 
 ## 📖 1. 项目简介 (Project Introduction)
-本项目是一个基于 Python 的本地化多模态 AI 智能助手，通过利用多模态技术解决本地大量 PDF 文献和图片管理困难的问题。
-
-本项目采用 **RAG (检索增强生成)** 的核心思想，实现了以下功能：
+本项目是一个基于 Python 的本地化多模态 AI 智能助手，通过利用多模态技术解决本地大量 PDF 文献和图片管理困难的问题，实现了以下功能：
 
 * **🔍 深层语义搜索**: 不再局限于文件名匹配，系统能深入理解 PDF 内容，**精确返回相关的段落、文字片段及其对应的页码**。
 * **📂 智能自动归档**: 能够理解论文的核心主题（如 "Computer Vision", "Natural Language Processing", "Reinforcement Learning"），自动将混乱的文件移动到分类文件夹中。
@@ -61,7 +61,7 @@ pip install chromadb sentence-transformers Pillow PyPDF2 tqdm
 
 ```
 
-*(注意: 首次运行程序时，`sentence-transformers` 会自动下载模型权重文件，约需 300-500MB 空间，请保持网络通畅。)*
+*(注意: 首次运行程序时，`sentence-transformers` 会自动下载模型权重文件，约需 300-500MB 空间。)*
 
 ### 4.3 项目目录结构
 
@@ -113,7 +113,7 @@ python main.py organize_papers ./papers --topics "Computer Vision, Natural Langu
 
 整理过程demo：
 
-[<video src="./assets/Semantic_Search.mp4" controls="controls" width="100%"></video>](https://github.com/user-attachments/assets/793dbd76-5520-46fa-8040-0ef33db4db4f)
+https://github.com/user-attachments/assets/25715e83-3cbf-4278-a632-3597db036047
 
 
 
@@ -137,7 +137,10 @@ python main.py add_paper ./papers/Attention_Is_All_You_Need.pdf --topics "Comput
 
 **实验演示**:
 
-[<video src="./assets/Semantic_Search.mp4" controls="controls" width="100%"></video>](https://github.com/user-attachments/assets/01784c04-b4b2-44d9-80d3-16201f0a0966)
+
+https://github.com/user-attachments/assets/c721a2f8-4e1b-4196-a4fb-76fec4b7ada6
+
+
 
 ---
 
@@ -161,7 +164,11 @@ python main.py search_paper "mechanism of self-attention"
 
 **实验演示**:
 
-[<video src="./assets/Semantic_Search.mp4" controls="controls" width="100%"></video>](https://github.com/user-attachments/assets/996194fb-2709-472b-9d53-5734547a5cb0)
+
+https://github.com/user-attachments/assets/baf666b6-14a4-4205-a0e5-5a8754fcf0d1
+
+
+
 
 ---
 
@@ -203,13 +210,17 @@ python main.py search_image "<图片描述>"
 **示例**:
 
 ```bash
-python main.py search_image "a cute dog running on grass"
+python main.py search_image "a dog on grass"
 
 ```
 
 **实验演示**:
 
-[<video src="./assets/Semantic_Search.mp4" controls="controls" width="100%"></video>](https://github.com/user-attachments/assets/cc59ec98-1d32-492e-b2f6-5f0fd8778786)
+
+
+https://github.com/user-attachments/assets/fb5ebdcf-a15c-45a6-9798-a19dc7a22a14
+
+
 
 
 
