@@ -113,7 +113,7 @@ python main.py organize_papers ./papers --topics "Computer Vision, Natural Langu
 
 整理过程demo：
 
-<video src="./assets/Semantic_Search.mp4" controls="controls" width="100%"></video>
+[<video src="./assets/Semantic_Search.mp4" controls="controls" width="100%"></video>](https://github.com/user-attachments/assets/793dbd76-5520-46fa-8040-0ef33db4db4f)
 
 
 
