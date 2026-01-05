@@ -137,7 +137,7 @@ python main.py add_paper ./papers/Attention_Is_All_You_Need.pdf --topics "Comput
 
 **实验演示**:
 
-> *(此处展示：日志显示文件被分类移动，并建立了索引)*
+[<video src="./assets/Semantic_Search.mp4" controls="controls" width="100%"></video>](https://github.com/user-attachments/assets/793dbd76-5520-46fa-8040-0ef33db4db4f)
 
 ---
 
@@ -161,8 +161,7 @@ python main.py search_paper "mechanism of self-attention"
 
 **实验演示**:
 
-> 系统返回了具体的片段内容和页码，方便快速阅读原文。
-> *(此处展示：Output 输出包含 [Page X] 和具体的 Fragment 文本)*
+[<video src="./assets/Semantic_Search.mp4" controls="controls" width="100%"></video>](https://github.com/user-attachments/assets/793dbd76-5520-46fa-8040-0ef33db4db4f)
 
 ---
 
@@ -210,7 +209,7 @@ python main.py search_image "a cute dog running on grass"
 
 **实验演示**:
 
-> *(此处展示：终端输出了最匹配的图片文件名和路径)*
+[<video src="./assets/Semantic_Search.mp4" controls="controls" width="100%"></video>](https://github.com/user-attachments/assets/793dbd76-5520-46fa-8040-0ef33db4db4f)
 
 
 
