@@ -68,6 +68,7 @@ pip install chromadb sentence-transformers Pillow PyPDF2 tqdm
 
 ```text
 Multimodal-AI-Agent/
+├── assets/                 # 实验demo 
 ├── db/                 # ChromaDB 数据库存储目录 
 ├── papers/             # PDF论文 
 ├── images/             # 图片
@@ -107,8 +108,7 @@ python main.py organize_papers ./papers --topics "Computer Vision, Natural Langu
 
 **运行演示**:
 
-> 系统会自动将 `./papers` 下的 PDF 移动到 `./papers/NLP/` 等文件夹，并显示索引进度。
-> *(此处展示：进度条走完，且文件夹目录变得整洁)*
+<video src="./assets/Batch%20Organize.mp4" controls="controls" width="100%"></video>
 
 ---
 
@@ -132,7 +132,7 @@ python main.py add_paper ./papers/Attention_Is_All_You_Need.pdf --topics "Comput
 
 **运行演示**:
 
-> *(此处展示：日志显示文件被分类移动，并建立了索引)*
+<video src="./assets/Add%20Single%20Paper.mp4" controls="controls" width="100%"></video>
 
 ---
 
@@ -156,8 +156,7 @@ python main.py search_paper "mechanism of self-attention"
 
 **运行演示**:
 
-> 系统返回了具体的片段内容和页码，方便快速阅读原文。
-> *(此处展示：Output 输出包含 [Page X] 和具体的 Fragment 文本)*
+<video src="./assets/Semantic%20Search.mp4" controls="controls" width="100%"></video>
 
 ---
 
@@ -181,7 +180,7 @@ python main.py index_images ./images
 
 **运行演示**:
 
-> *(此处展示：图片扫描的进度条)*
+<video src="./assets/Search%20Image.mp4" controls="controls" width="100%"></video>
 
 ---
 
