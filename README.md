@@ -113,7 +113,7 @@ python main.py organize_papers ./papers --topics "Computer Vision, Natural Langu
 
 整理过程demo：
 
-Uploading Batch Organize.mp4…
+<video src="./assets/Semantic_Search.mp4" controls="controls" width="100%"></video>
 
 
 
