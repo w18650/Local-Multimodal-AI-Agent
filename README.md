@@ -66,6 +66,7 @@ pip install chromadb sentence-transformers Pillow PyPDF2 tqdm
 
 ```text
 Multimodal-AI-Agent/
+├── assert/                 # 实验过程及demo
 ├── db/                 # ChromaDB 数据库存储目录 
 ├── papers/             # PDF论文 
 ├── images/             # 图片
