@@ -106,10 +106,14 @@ python main.py organize_papers ./papers --topics "Computer Vision, Natural Langu
 ```
 
 **实验演示**:
+
 整理之前：
+
 ![image](https://github.com/w18650/Local-Multimodal-AI-Agent/blob/main/assets/papers.png)
+
 整理过程demo：
 
+<!-- Uploading "Batch Organize.mp4"... -->
 
 
 ### 5.2 添加单篇论文 (Add Single Paper)
