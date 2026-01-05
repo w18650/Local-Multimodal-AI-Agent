@@ -181,7 +181,7 @@ python main.py index_images ./images
 
 **实验演示**:
 
-![image](https://github.com/w18650/Local-Multimodal-AI-Agent/blob/main/assets/Index Images.png)
+![image](https://github.com/w18650/Local-Multimodal-AI-Agent/blob/main/assets/Index_Images.png)
 
 ---
 
