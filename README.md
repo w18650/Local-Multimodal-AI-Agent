@@ -113,7 +113,8 @@ python main.py organize_papers ./papers --topics "Computer Vision, Natural Langu
 
 整理过程demo：
 
-<!-- Uploading "Batch Organize.mp4"... -->
+Uploading Batch Organize.mp4…
+
 
 
 ### 5.2 添加单篇论文 (Add Single Paper)
