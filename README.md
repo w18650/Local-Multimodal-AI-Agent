@@ -65,16 +65,15 @@ pip install chromadb sentence-transformers Pillow PyPDF2 tqdm
 
 ### 4.3 项目目录结构
 
-
 ```text
 Multimodal-AI-Agent/
-├── assets/                 # 实验demo 
-├── db/                 # ChromaDB 数据库存储目录 
-├── papers/             # PDF论文 
-├── images/             # 图片
-├── main.py             # 主程序
-├── agent.py            # 核心逻辑
-└── README.md           # 说明文档
+├── assets/                 # 实验demo及截图
+├── db/                     # ChromaDB 数据库存储目录 
+├── papers/                 # PDF论文 
+├── images/                 # 图片
+├── main.py                 # 主程序
+├── agent.py                # 核心逻辑
+└── README.md               # 说明文档
 
 ```
 
@@ -180,8 +179,6 @@ python main.py index_images ./images
 
 **运行演示**:
 
-<video src="./assets/Search%20Image.mp4" controls="controls" width="100%"></video>
-
 ---
 
 ### 5.5 以文搜图 (Search Image)
@@ -204,8 +201,8 @@ python main.py search_image "a cute dog running on grass"
 
 **运行演示**:
 
-> *(此处展示：终端输出了最匹配的图片文件名和路径)*
+<video src="./assets/Search%20Image.mp4" controls="controls" width="100%"></video>
 
-
+```
 
 ```
