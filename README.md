@@ -217,8 +217,3 @@ python main.py search_image "a dog on grass"
 
 https://github.com/user-attachments/assets/fb5ebdcf-a15c-45a6-9798-a19dc7a22a14
 
-
-
-
-
-```
