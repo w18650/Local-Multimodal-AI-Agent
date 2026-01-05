@@ -105,11 +105,12 @@ python main.py organize_papers ./papers --topics "Computer Vision, Natural Langu
 
 ```
 
-**运行演示**:
-
+**实验演示**:
+整理之前：
 ![image](https://github.com/w18650/Local-Multimodal-AI-Agent/blob/main/assets/papers.png)
+整理过程demo：
 
----
+
 
 ### 5.2 添加单篇论文 (Add Single Paper)
 
@@ -129,7 +130,7 @@ python main.py add_paper ./papers/Attention_Is_All_You_Need.pdf --topics "Comput
 
 ```
 
-**运行演示**:
+**实验演示**:
 
 > *(此处展示：日志显示文件被分类移动，并建立了索引)*
 
@@ -153,7 +154,7 @@ python main.py search_paper "mechanism of self-attention"
 
 ```
 
-**运行演示**:
+**实验演示**:
 
 > 系统返回了具体的片段内容和页码，方便快速阅读原文。
 > *(此处展示：Output 输出包含 [Page X] 和具体的 Fragment 文本)*
@@ -178,9 +179,9 @@ python main.py index_images ./images
 
 ```
 
-**运行演示**:
+**实验演示**:
 
-> *(此处展示：图片扫描的进度条)*
+![image](https://github.com/w18650/Local-Multimodal-AI-Agent/blob/main/assets/Index Images.png)
 
 ---
 
@@ -202,7 +203,7 @@ python main.py search_image "a cute dog running on grass"
 
 ```
 
-**运行演示**:
+**实验演示**:
 
 > *(此处展示：终端输出了最匹配的图片文件名和路径)*
 
