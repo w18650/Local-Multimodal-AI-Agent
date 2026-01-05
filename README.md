@@ -137,7 +137,7 @@ python main.py add_paper ./papers/Attention_Is_All_You_Need.pdf --topics "Comput
 
 **实验演示**:
 
-[<video src="./assets/Semantic_Search.mp4" controls="controls" width="100%"></video>](https://github.com/user-attachments/assets/793dbd76-5520-46fa-8040-0ef33db4db4f)
+[<video src="./assets/Semantic_Search.mp4" controls="controls" width="100%"></video>](https://github.com/user-attachments/assets/01784c04-b4b2-44d9-80d3-16201f0a0966)
 
 ---
 
@@ -161,7 +161,7 @@ python main.py search_paper "mechanism of self-attention"
 
 **实验演示**:
 
-[<video src="./assets/Semantic_Search.mp4" controls="controls" width="100%"></video>](https://github.com/user-attachments/assets/793dbd76-5520-46fa-8040-0ef33db4db4f)
+[<video src="./assets/Semantic_Search.mp4" controls="controls" width="100%"></video>](https://github.com/user-attachments/assets/996194fb-2709-472b-9d53-5734547a5cb0)
 
 ---
 
@@ -209,7 +209,7 @@ python main.py search_image "a cute dog running on grass"
 
 **实验演示**:
 
-[<video src="./assets/Semantic_Search.mp4" controls="controls" width="100%"></video>](https://github.com/user-attachments/assets/793dbd76-5520-46fa-8040-0ef33db4db4f)
+[<video src="./assets/Semantic_Search.mp4" controls="controls" width="100%"></video>](https://github.com/user-attachments/assets/cc59ec98-1d32-492e-b2f6-5f0fd8778786)
 
 
 
